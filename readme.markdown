@@ -252,7 +252,7 @@ MIT
 
 # subtests
 
-5 flavors of Subtests are suppored by this parser.
+5 flavors of Subtests are supported by this parser.
 
 1. Unadorned.
    Indented TAP data with no comment, followed by a test
